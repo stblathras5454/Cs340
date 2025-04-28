@@ -1,2 +1,11 @@
-# Cs340
-Repo for my CS340 work
+This repository contains the final dashboard code and README reflection for Project Two. In this project, I created an interactive dashboard for Grazioso Salvare using Python, Dash, and MongoDB. I also implemented a CRUD Python module from Project One to connect the dashboard's user interface to the database. This project showcases my skills in backend database interaction, frontend dashboard design, and writing maintainable code.
+Reflection
+How do you write programs that are maintainable, readable, and adaptable?
+
+Throughout this project, I learned the importance of keeping code modular and easy to understand. When I built the CRUD Python module in Project One, I separated the database operations into clear, reusable functions for creating, reading, updating, and deleting documents. This made it much easier to connect my module to the dashboard widgets in Project Two without rewriting code. The advantages of working this way were huge — it saved time, reduced mistakes, and made troubleshooting easier. I could use this CRUD module again for other applications that need database access, like future dashboards, mobile apps, or internal tools for businesses.
+How do you approach a problem as a computer scientist?
+
+When I started this project, I broke the dashboard requirements into smaller pieces and tackled them one at a time. I focused first on setting up the database correctly, then built the CRUD module, and finally created the dashboard interface and visualizations. Compared to previous assignments, this project pushed me to plan further ahead because there were multiple systems (database, backend, frontend) that had to work together. In future projects, I would continue using this step-by-step approach, while also making sure to set up clear testing points to catch errors earlier when creating databases and apps for clients.
+What do computer scientists do, and why does it matter?
+
+Computer scientists design and build systems that help people solve real-world problems. In this case, creating a dashboard for Grazioso Salvare helps the company track and organize their rescue operations more efficiently. Good software can make businesses work smarter, save time, and improve the services they offer. Projects like this show how technical skills can directly support an organization’s mission and make a real difference in how they operate.
